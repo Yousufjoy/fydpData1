@@ -1,0 +1,30 @@
+{
+  "video" : [
+    {
+      
+      "name": "Jon Kantner",
+      "title": "Designer",
+      "duration": "2 hours 3 minutes",
+      "img": "https://i.ibb.co/D8G6607/img1.png"
+    },
+    {
+      "name": "Alice Johnson",
+      "title": "Designer",
+      "duration": "1 hour 45 minutes",
+      "img": "https://i.ibb.co/1XCLFNK/img2.png"
+    },
+    {
+      "name": "Eva Rodriguez",
+      "title": "Designer",
+      "duration": "1 hour 30 minutes",
+      "img": "https://i.ibb.co/09MvpZs/img3.png"
+    },
+    {
+     "name": "Mark Smith",
+      "title": "Designer",
+      "duration": "2 hours",
+      "img": "https://i.ibb.co/YttB1kz/img4.png"
+    }
+  ]
+  
+}
