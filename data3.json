@@ -1,0 +1,149 @@
+{
+ "cardData": [
+    {
+      "id": 1,
+      "mainHeading": "From 9 October",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4",
+      "price": "36$",
+      "subHeading": "Web Development",
+      "courseTitle": "Motion Graphics: Create a Nice Typography Animation",
+      "lesson": "6",
+      "student": "26",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 2,
+      "mainHeading": "From 15 November",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.5",
+      "price": "45$",
+      "subHeading": "Mobile App Development",
+      "courseTitle": "Building Scalable Apps with React Native",
+      "lesson": "8",
+      "student": "35",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 3,
+      "mainHeading": "From 3 December",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "3.5",
+      "price": "30$",
+      "subHeading": "Data Science",
+      "courseTitle": "Introduction to Machine Learning",
+      "lesson": "5",
+      "student": "20",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": 4,
+      "mainHeading": "From 21 January",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "5",
+      "price": "50$",
+      "subHeading": "Graphic Design",
+      "courseTitle": "Mastering Adobe Photoshop",
+      "lesson": "10",
+      "student": "50",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 5,
+      "mainHeading": "From 7 February",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.2",
+      "price": "40$",
+      "subHeading": "Cybersecurity",
+      "courseTitle": "Ethical Hacking Essentials",
+      "lesson": "7",
+      "student": "30",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 6,
+      "mainHeading": "From 12 March",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "3.8",
+      "price": "32$",
+      "subHeading": "Marketing",
+      "courseTitle": "Digital Marketing Strategies",
+      "lesson": "6",
+      "student": "25",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": 7,
+      "mainHeading": "From 4 April",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.7",
+      "price": "48$",
+      "subHeading": "UI/UX Design",
+      "courseTitle": "Creating User-Centric Interfaces",
+      "lesson": "8",
+      "student": "40",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 8,
+      "mainHeading": "From 20 May",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "3.9",
+      "price": "34$",
+      "subHeading": "Programming",
+      "courseTitle": "Python for Data Science",
+      "lesson": "7",
+      "student": "28",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 9,
+      "mainHeading": "From 8 June",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.3",
+      "price": "42$",
+      "subHeading": "Game Development",
+      "courseTitle": "Unity Game Development Basics",
+      "lesson": "5",
+      "student": "22",
+      "difficulty": "Beginner"
+    },
+    {
+      "id": 10,
+      "mainHeading": "From 16 July",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.9",
+      "price": "55$",
+      "subHeading": "Artificial Intelligence",
+      "courseTitle": "Deep Learning Fundamentals",
+      "lesson": "9",
+      "student": "45",
+      "difficulty": "Advanced"
+    },
+    {
+      "id": 11,
+      "mainHeading": "From 5 August",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "4.1",
+      "price": "38$",
+      "subHeading": "E-commerce",
+      "courseTitle": "Building Online Stores with Shopify",
+      "lesson": "7",
+      "student": "32",
+      "difficulty": "Intermediate"
+    },
+    {
+      "id": 12,
+      "mainHeading": "From 23 September",
+      "img": "https://i.ibb.co/Jdr71zr/crs1.png",
+      "star": "3.6",
+      "price": "28$",
+      "subHeading": "Blockchain",
+      "courseTitle": "Introduction to Smart Contracts",
+      "lesson": "6",
+      "student": "18",
+      "difficulty": "Beginner"
+    }
+  ]
+  
+}
